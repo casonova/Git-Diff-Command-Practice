@@ -3,5 +3,8 @@ Line3 and Line4
 Line5 and Line6
 Line7 and Line8
 middle
+<<<<<<< HEAD
 middle
+=======
+>>>>>>> 8d816559aca4bab07815a63d4aefd122b15c8a5e
 LIne9 and LIne10
